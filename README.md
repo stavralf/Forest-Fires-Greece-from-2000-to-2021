@@ -1,10 +1,11 @@
 # Forest_Fires_Greece-2000-2021-
-A quick survey on Forest Fires in Greece in the 21st Century.
-We present basic visuals about the Forest fires and their impact on land loss 
-and we define and focus on the phenomenon of Megafires. Furthermore, we briefly 
-analyze the imporatnce of Fire Prevention and we investigate funding imbalances 
-existing in funding policies in Greece between Fire Prevention and Fire Suppression.
+This is a survey presentation on the Forest Fires in Greece throughout the 21st Century, so far.
+We demonstrate the aggregate land damage through multiple visualizations followed by investigation 
+of the impact under a regional perspective. Moreover, we define and analyze the phenomenon of Megafires and 
+their grave consequences on land and people's lives.
+Moving forward, we briefly analyze the crucial role of Fire Prevention while searching and raising concern for 
+funding imbalances between Fire Prevention and Fire Suppression policy-making.
 
-Through this quick presentation we wish to uncover the importnace of Fire Prevention
-through arguing that Fire Suppression is not sufficient enough for dealing with the 
-increasingly dangerous fire seasons in Greece.
+In conclusion, this presentation aims to highlight the importance of Fire Prevention emphasizing that Fire Suppression 
+is a necessary but not sufficient strategy for dealing with the increasingly dangerous fire seasons in Greece that usually 
+culminate in irreparable, destructive Megafires.
