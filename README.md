@@ -8,4 +8,4 @@ funding imbalances between Fire Prevention and Fire Suppression policy-making.
 
 In conclusion, this presentation aims to highlight the importance of Fire Prevention emphasizing that Fire Suppression 
 is a necessary but not sufficient strategy for dealing with the increasingly dangerous fire seasons in Greece that usually 
-culminate in irreparable, destructive Megafires.
+culminate in irreparable, destructive Megafires. See the report [here.](https://github.com/stavralf/Forest-Fires-Greece-from-2000-to-2021/blob/main/Greek_Forest_Fires_21st_Century_Presentation.pdf)
